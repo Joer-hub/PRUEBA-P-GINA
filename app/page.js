@@ -141,8 +141,8 @@ export default function Home() {
           >
             {/* Tus fuentes originales */}
             <source src="/videos/istockphoto-1214186685-640_adpp_is" type="video/mp4" />
-            <source src="/videos/pruebavideo (online-video-cutter.com).mp4" type="video/mp4" />
-            <source src="/videos/istockphoto-1214186685-640_adpp_is.webm" type="video/webm" />
+            <source src="/videos/720.mp4" type="video/mp4" />
+            <source src="/videos/720.webm" type="video/webm" />
           </video>
           <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-black/60"></div>
         </div>
